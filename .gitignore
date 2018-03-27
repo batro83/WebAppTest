@@ -1,2 +1,4 @@
 parent-app/back-restServices/target/
-parent-app/back-restServices/target/
+**/target
+**/classes
+**/bin
